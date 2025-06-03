@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Acer 725",
+    "description": "Celeron 1000\nRAM 4GB | HDD 500GB\nLayar 12 inci\nBaterai Baru",
+    "price": "Rp1.900.000",
+    "image": "images/Acer 725.jpeg"
+  },
+  {
+    "title": "Acer V5",
+    "description": "Celeron\nRAM 4GB | HDD 500GB\nLayar 12 inci\nBaterai Baru",
+    "price": "Rp1.850.000",
+    "image": "images/Acer v5.jpeg"
+  },
+  {
+    "title": "Asus AMD C60",
+    "description": "AMD\nRAM 2GB | HDD 500GB\nLayar 14 inci\nBaterai tahan 1 jam",
+    "price": "Rp1.500.000",
+    "image": "images/Asus Amd c60.jpeg"
+  },
+  {
+    "title": "Asus X441",
+    "description": "Celeron N3350\nRAM 4GB | SSD 240GB\nLayar 14 inci\nFull Dus",
+    "price": "Rp2.900.000",
+    "image": "images/Asus x441.jpeg"
+  },
+  {
+    "title": "Lenovo Slim",
+    "description": "Ryzen 3 3500U\nRAM 8GB | SSD 256GB\nLayar 14 inci\nFull Dus",
+    "price": "Rp4.500.000",
+    "image": "images/Lenovo slimRyzen 3 3500.jpeg"
+  }
+]
